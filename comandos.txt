@@ -13,3 +13,19 @@ git add *"nome da extensão"(adiciona todos os arquivos com essa extensão)
 git add --all ou .(adiciona todos os arquivos)
 
 code nomedoarquivo.extensao(abre o arquivo no VS Code para edição)
+
+git log(ver alterações e versões)
+
+git log -p(ver logs mais detalhados)
+
+git log -n(n é a quantidades de logs a serem mostrados)
+
+git log --oneline(mostra um resumo dos logs)
+
+git log --oneline -n(n é a quantidade de logs a serem mostrados)
+
+git commit -a( git add + git commit)
+
+git rm --cached(remover o arquivo do controle de versão)
+
+git rm (remove tanto do controle de versão tanto quanto do S/O)
