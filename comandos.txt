@@ -11,3 +11,5 @@ git add "nome do arquivo"(adiciona ao controle de versão(arquivo sendo monitora
 git add *"nome da extensão"(adiciona todos os arquivos com essa extensão)
 
 git add --all ou .(adiciona todos os arquivos)
+
+code nomedoarquivo.extensao(abre o arquivo no VS Code para edição)
