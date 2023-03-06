@@ -1,0 +1,13 @@
+cd D:/Git/Curso_de_Git
+
+git init (criar repositorio)
+
+rm -rf .git (remove um repositorio já criado)
+
+git status(status do repositorio, arquivos que estão e não estão no controle de versão e etc)
+
+git add "nome do arquivo"(adiciona ao controle de versão(arquivo sendo monitorado))
+
+git add *"nome da extensão"(adiciona todos os arquivos com essa extensão)
+
+git add --all ou .(adiciona todos os arquivos)
