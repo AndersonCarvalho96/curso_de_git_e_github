@@ -62,5 +62,3 @@ git reset(reverte o arquivo commitado[exemplo: git reset --soft HEAD~1{volta 1 c
 	--mixed(além de mover o ponteiro do head para o commit ele faz o espelhamento desse commit para a área de 		preparo, ele não afeta o diretório de trabalho, ele não desfaz o git add, desfaz o git commit)
 
 	--hard(desfaz qualquer trabalho pendente que não tenha sido commitado)
-
-
