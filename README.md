@@ -1,7 +1,5 @@
 # Curso de Git/GitHub
 
-<hr>
-
 1. Controle de Versão
 2. Conhecendo o Git
 
